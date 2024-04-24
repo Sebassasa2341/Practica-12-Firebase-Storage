@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96513047766",
+    "project_id": "imageuploadfirebase-ac71d",
+    "storage_bucket": "imageuploadfirebase-ac71d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96513047766:android:6b91e91dc4af0710a15d77",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.potro.practica12firebasestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkGotpbErdGKjk8iS0e8E-QPeJ8m_6M0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
